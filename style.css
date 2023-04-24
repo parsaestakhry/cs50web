@@ -1,0 +1,5 @@
+/* to avoid multiplication on the html file, we can put the style elements on a css file to be able to use same elements on a different web page */
+h1 { 
+    color: rgb(208, 100, 32);
+    text-align: center;
+}
